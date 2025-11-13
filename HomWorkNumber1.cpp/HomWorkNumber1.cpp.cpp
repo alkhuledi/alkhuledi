@@ -13,6 +13,6 @@ string  printname(string name)
 int main()
 {
     printname("alkhuledi");
-    //this is alkhuledi edit
+    // alkhuledi edit
    
 }
